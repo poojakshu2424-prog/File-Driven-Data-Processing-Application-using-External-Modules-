@@ -1,0 +1,37 @@
+1. Project Title
+
+File-Driven Data Processing Application using External Modules in Python
+
+2. Problem Statement
+
+To design and implement a file-driven application that reads data from a file, processes it using external modules, and generates useful output. The system should demonstrate modular programming and file handling techniques.
+
+3. Objective
+To understand file handling in Python
+To use external modules for modular programming
+To process and analyze data from files
+To improve code reusability and organization
+To handle real-world data efficiently
+4. Tools Used
+Python 3
+VS Code / IDLE
+External Modules (Custom Python Files)
+5. Description
+
+This project implements a File-Driven Data Processing Application using Python. The system reads student data from a text file, processes it using functions defined in an external module, and displays results such as average marks and topper details. The use of external modules improves code organization, maintainability, and reusability.
+
+6. Algorithm
+Start the program.
+Read student data from a file.
+Import the external module.
+Process the data to calculate average marks.
+Find the topper.
+Display the student data and results.
+End the program.
+  9. Result
+
+The File-Driven Data Processing Application was successfully developed using Python. The program reads data from a file, processes it using external modules, and displays accurate results such as average marks and topper information.
+
+10. Conclusion
+
+This project demonstrates the importance of file handling and modular programming in Python. By using external modules, the program becomes more organized, reusable, and efficient for handling real-world data processing tasks.
